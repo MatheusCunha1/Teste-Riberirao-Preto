@@ -1,6 +1,7 @@
+```python
 # Teste-Riberirao-Preto
 
-1) Observe o trecho de código abaixo:
+## 1) Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
 
@@ -33,7 +34,7 @@ d) 4, 16, 36, 64, 100
 
 e) 1, 1, 2, 3, 5, 8, 13
 
-f) 2, 10, 12, 16, 17, 18, 19, ____
+f) 2, 10, 12, 16, 17, 18, 19, 20
 
 ## 4) Descobrindo os Interruptores das Lâmpadas
 
@@ -47,8 +48,9 @@ f) 2, 10, 12, 16, 17, 18, 19, ____
    
    # - Se estiver apagada e quente, isso indica que o primeiro interruptor está conectado à lâmpada.
    # - Se estiver apagada e fria, então o terceiro interruptor está conectado à lâmpada.
+```python 
 
-## 5)Escreva um programa que inverta os caracteres de um string.
+## 5) Escreva um programa que inverta os caracteres de um string.
 
 
 IMPORTANTE:
@@ -56,4 +58,4 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
-
+```
